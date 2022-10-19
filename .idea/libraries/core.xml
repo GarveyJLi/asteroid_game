@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../images.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../TurtleGraphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../images.jar!/" />
+    </SOURCES>
+  </library>
+</component>
